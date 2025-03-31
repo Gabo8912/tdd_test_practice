@@ -1,4 +1,5 @@
-﻿# tdd_test_practice
+﻿# Test-Driven Development (TDD) en Java con RESTful Web Services
+ 
 Este proyecto implementa el desarrollo guiado por pruebas (TDD) en una aplicación RESTful utilizando Java. La metodología TDD se basa en escribir primero las pruebas antes de desarrollar la funcionalidad, asegurando un código más robusto, mantenible y libre de errores desde el inicio.
 
 El flujo seguido en esta práctica es:
